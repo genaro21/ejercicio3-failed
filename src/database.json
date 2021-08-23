@@ -1,0 +1,32 @@
+{
+  "libros": [
+    {
+      "id": "uuid v4()",
+      "titulo": "el nacimiento",
+      "descripcion": "terror",
+      "puntuacion": "bueno"
+    },
+    {
+      "id": "uuid v4()",
+      "titulo": "la muerte",
+      "descripcion": "comedia",
+      "puntuacion": "malo"
+    }
+  ],
+  "admins": [
+    {
+      "nombre": "administador1",
+      "password": "admin1"
+    }
+  ],
+  "users": [
+    {
+      "correo": "gallardo2147@gmail.com",
+      "password": "user1"
+    },
+    {
+      "correo": "pepito888@gmail.com",
+      "password": "user2"
+    }
+  ]
+}
